@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Defence Services Officer's Institute (DSOI)",
+        "shortName": "Nightlife",
+        "latitude": 28.593602152491066,
+        "longitude": 77.1621741401389,
+        "address": "Swarna Jayanti Marg, Dhaula Kuan I, Delhi Cantonme"
+    },
+    {
+        "name": "Defence Officers Enclave",
+        "shortName": "Military Base",
+        "latitude": 28.596292227841644,
+        "longitude": 77.16214043992943,
+        "address": "Dhaula Kuan"
+    },
+    {
+        "name": "Taj Palace Hotel",
+        "shortName": "Hotel",
+        "latitude": 28.595098281635618,
+        "longitude": 77.1709132403825,
+        "address": "Sardar Patel Marg (Chanakyapuri), New Delhi"
+    },
+    {
+        "name": "Army Golf Course",
+        "shortName": "Golf Course",
+        "latitude": 28.593717293662113,
+        "longitude": 77.15851199489411,
+        "address": "Dhaula Kuan (Delhi Cantonment)"
+    },
+    {
+        "name": "Noormahal",
+        "shortName": "Hostel",
+        "latitude": 28.59445582371118,
+        "longitude": 77.1665096282959,
+        "address": "Crossing, National Highway 1 Sector 32, Karnal"
+    },
+    {
+        "name": "Mumtaz Hall",
+        "shortName": "Convention Center",
+        "latitude": 28.595699872373142,
+        "longitude": 77.16830180291218,
+        "address": "Taj Palace Hotel"
+    },
+    {
+        "name": "Subroto Park",
+        "shortName": "Park",
+        "latitude": 28.58812506384426,
+        "longitude": 77.15588326904852,
+        "address": "Rao Tula Ram Marg, New Delhi"
+    },
+    {
+        "name": "Dhaula Kuan Airport Metro Express Station",
+        "shortName": "Metro Station",
+        "latitude": 28.591429356501227,
+        "longitude": 77.1610170941531,
+        "address": "Dhaula Kuan, New Delhi"
+    },
+    {
+        "name": "Burger King Drive THRU",
+        "shortName": "Burger Joint",
+        "latitude": 28.591651,
+        "longitude": 77.162309,
+        "address": "Dhaula Kuan, New Delhi"
+    },
+    {
+        "name": "ITC Maurya Towers Club Lounge",
+        "shortName": "Lounge",
+        "latitude": 28.597107924204558,
+        "longitude": 77.17444308625593,
+        "address": "New Delhi"
+    }
+]

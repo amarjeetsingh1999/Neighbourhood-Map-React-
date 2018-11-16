@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#map {
+  bottom: 0px;
+  height: 100%;
+  left: 362px;
+  position: absolute;
+  right: 0px;
+}
+
+.sideBar {
+  z-index: 1;
+  position: fixed;
+  top: 5px;
+  left: 5px;
+  height: 100vh;
+  width: 340px;
+}
+
+.search-input {
+  padding: 5px;
+  width: 328px;
+  font-size: 15px;
+  border: 2px solid rgb(190, 24, 212);
+}
+
+ul {
+  background: white;
+  background-image: url("https://i.gifer.com/EYuK.gif");
+  border: 1px solid #999;
+  overflow: auto;
+  padding: 0px;
+  margin: 0;
+  width: 340px;
+}
+
+.item {
+  cursor: pointer;
+  border: 1px solid #999;
+  padding: 10px 10px 30px 10px;
+  text-align: left;
+  border-radius: 5px;
+}
+
+.item:hover {
+  background-color: #2164c7;
+  color: white;
+}
+
+.creator {
+  text-align: right;
+  bottom: 0px;
+  font-style: italic;
+}
+
+.heart {
+ color: red;
+}
